@@ -1,0 +1,20 @@
+# How to enter your grades:
+# Format for each line:
+#   <Course Name> <Grade (0-100)> <Nakaz (weight factor)>
+# Please follow this format for each course.
+# Lines starting with '#' are considered comments and will be ignored by the system.
+# To ensure the system can read your data, remove any '#' characters from the beginning of the line.
+
+
+
+# Example: (remove the # at the beginning of each row)
+# english 600 2
+# statistics 66 3.5
+
+
+
+
+# **Important Note about "עובד בינארי" (Binary Pass)**
+# If your grade is "עובד בינארי" (Binary Pass), this means the grade is greater than 100.
+# For example, if your grade is 600, you should enter it as "600" in the grade column.
+# The system knows how to handle grades greater than 100, so there is no need to make any adjustments.
